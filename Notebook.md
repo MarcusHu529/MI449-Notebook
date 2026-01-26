@@ -18,4 +18,19 @@ I read some documentations about Javascript and watched videos about React.
     - Data types
 For group project, I uploaded my bio and profile picture.
 
-Next week TODO:
+Next week TODO: More Javascript, React
+
+Week 3
+
+Reactive Application overview (Due 3/1)
+    - 3rd party API
+    - CSS framework
+    - data storage
+    - Using React or Vue
+    - Deploy to Netlify
+
+Some basics of Javasript 
+
+
+
+

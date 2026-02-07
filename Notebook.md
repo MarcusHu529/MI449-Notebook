@@ -14,10 +14,6 @@
 **Class Notes**
 - Missed class this week due to sickness.
 
-
-<details>
-<summary><strong>Reading Notes:</strong></summary>
-
 <details>
 <summary><strong> What is an API (application programming interface)?</strong></summary>
 
@@ -142,9 +138,16 @@
             - Calculates a single value by iterating over the array.
     - Check Type
         - Array.isArray(value) → Returns true if the value is an array
+
 </details>
+
+
+**TO-DO:**
+- 4.5 Exercise
+
 </details>
-</details>
+
+
 
 <details>
 <summary><strong>Week 3: Reactive App Specs</strong></summary>

@@ -1,36 +1,66 @@
-# MI449-Notebook
-Notes for MI449
+# MI449: Class Notebook
 
-Week 1
+> **Name:** Weihang Hu  
+> **Current Status:** Week 4
+> **Last Update:** 2/26/2026
 
-We went over the syllabus together, and formed a project team in class.
+---
 
-I finished Hello-Exploer assignment this week, it helped me to refresh what we had learnt in MI349
-Our team project github repo have been created
+## Weekly Notes
 
-Next week TODO: Start working on team project (Due 1/25)
+<details>
+<summary><strong>Week 4: APIs & Architecture</strong></summary>
 
-Week 2
+### Class Notes
+- Missed class this week due to sickness.
 
-I read some documentations about Javascript and watched videos about React.
-    - 'use strict' 
-    - variables
-    - Data types
-For group project, I uploaded my bio and profile picture.
+### Reading Notes:
 
-Next week TODO: More Javascript, React
+- **APIs:** A set of rules enabling apps to communicate.
+    - **Key Benefits:**
+        - Simplifies development.
+        - Integrates data/services from other apps.
+        - Securely makes data/functions available.
 
-Week 3
+### Video Notes
+- **...**
 
-Reactive Application overview (Due 3/1)
-    - 3rd party API
-    - CSS framework
-    - data storage
-    - Using React or Vue
-    - Deploy to Netlify
+</details>
 
-Some basics of Javasript 
+<details>
+<summary><strong>Week 3: Reactive App Specs</strong></summary>
 
+### Class Notes
+**Project Requirements (Due 3/1):**
+- 3rd Party API Integration
+- CSS Framework
+- Data Storage
+- React or Vue
+- Deploy to Netlify
 
+**Study Topics:**
+- JavaScript Basics
 
+</details>
 
+<details>
+<summary><strong>Week 2: React & JS Basics</strong></summary>
+
+### Reading Notes
+- **JavaScript:** `use strict`, variables, data types.
+- **React:** Watched intro videos.
+
+### Team Project
+- Uploaded Bio & Profile Picture.
+
+</details>
+
+<details>
+<summary><strong>Week 1: Logistics & Setup</strong></summary>
+
+### Class Notes
+- Syllabus review & team formation.
+- **Assignments:** Finished `Hello-Explorer` (Refresher on MI349).
+- **Setup:** Created Team GitHub Repo.
+
+</details>

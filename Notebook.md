@@ -11,10 +11,12 @@
 <details>
 <summary><strong>Week 4: APIs & Architecture</strong></summary>
 
-### Class Notes
+**Class Notes**
 - Missed class this week due to sickness.
 
-### Reading Notes:
+
+<details>
+<summary><strong>Reading Notes:</strong></summary>
 
 <details>
 <summary><strong> What is an API (application programming interface)?</strong></summary>
@@ -141,10 +143,7 @@
     - Check Type
         - Array.isArray(value) → Returns true if the value is an array
 </details>
-
-### Video Notes
-- **...**
-
+</details>
 </details>
 
 <details>

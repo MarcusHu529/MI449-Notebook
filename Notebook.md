@@ -9,6 +9,47 @@
 ## Weekly Notes
 
 <details>
+<summary><strong>Week 6: React continue</strong></summary>
+
+**Class Notes**
+- React Components
+    - Functions that take input and returns JSX
+    - Props are read-only
+    - Components can stack
+    - Components are the logo bricks of react
+- Props
+    - Work like HTML attributes and allow you to pass data from parent components to children components  
+    - Like arguments in a function. The parent decides what data to send, the child decides how to disply it
+- Hooks
+    - a functions that let you hook into React features from inside a function component
+        - useState() - Have React remember stuff
+        - useEffect() - Do stuff after the page renders
+        - useRef() - Hold a value without re-rendering
+    - Rules
+        - Only call hooks at the top level - not inside loops, conditions, or nested functions
+        - Only call hooks in React components or custom hooks - not in JS functions
+- Events
+    - How your components respond to user actions
+    - Pass functions not strings
+- LocalStorage
+    - built-in browser APO that lets you store data that survives page reloads and browser restarts. Think of it as a simple key-value dictonary that live in the browser
+        - localStorage.setItem()
+        - .getItem()
+        - .removeItem() 
+    - Strings only, objects and arrays need to be convberted (stringified) into JSON
+- Lists
+    - Render a list of elements from a JS array
+    - Use map()
+ 
+
+**TO-DO:**
+- Weekly Exercise
+
+</details>
+
+
+
+<details>
 <summary><strong>Week 5: React</strong></summary>
 
 **Class Notes**
@@ -27,11 +68,12 @@
 
 </details>
 
-T
+**TO-DO:**
+- Weekly Exercise
+
 </details>
 
-**TO-DO:**
-- Weekly5 Exercise
+
 
 <details>
 <summary><strong>Week 4: APIs & Architecture</strong></summary>

@@ -9,6 +9,31 @@
 ## Weekly Notes
 
 <details>
+<summary><strong>Week 5: React</strong></summary>
+
+**Class Notes**
+- React
+    - Routing
+    - Data fetching and handling
+    - Client-side rendering
+    - Styling systems
+    - ts integrationv
+<details>
+
+<summary><strong> Thinking in React</strong></summary>
+
+- **
+
+
+</details>
+
+T
+</details>
+
+**TO-DO:**
+- Weekly5 Exercise
+
+<details>
 <summary><strong>Week 4: APIs & Architecture</strong></summary>
 
 **Class Notes**

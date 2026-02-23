@@ -1,8 +1,8 @@
 # MI449: Class Notebook
 
 > **Name:** Weihang Hu  
-> **Current Status:** Week 4    
-> **Last Update:** 2/26/2026
+> **Current Status:** Week 6    
+> **Last Update:** 2/22/2026
 
 ---
 
@@ -11,7 +11,9 @@
 <details>
 <summary><strong>Week 6: React continue</strong></summary>
 
-**Class Notes**
+<details>
+<summary>Class Notes</summary>
+
 - React Components
     - Functions that take input and returns JSX
     - Props are read-only
@@ -40,10 +42,18 @@
 - Lists
     - Render a list of elements from a JS array
     - Use map()
- 
+</details>
 
-**TO-DO:**
-- Weekly Exercise
+<details>
+<summary>Reading Notes</summary>
+
+- JSX Defined: A syntax  extension for JS that looks like HTML but allows you to write markup inside logic
+- Component Logic: React groups rendering logic and UI together into components to keep them in sync
+- The Single Root Rule: A component must return only one parent element. If you have multiple tags, they must be wrapped in a container like a <div> or a Fragment <>...</>.
+- camelCase
+</details>
+
+**TO-DO:** Weekly Exercise
 
 </details>
 

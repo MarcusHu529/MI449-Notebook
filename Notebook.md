@@ -1,12 +1,26 @@
 # MI449: Class Notebook
 
 > **Name:** Weihang Hu  
-> **Current Status:** Week 6    
-> **Last Update:** 2/22/2026
+> **Current Status:** Week 8    
+> **Last Update:** 3/9/2026
 
 ---
 
 ## Weekly Notes
+
+<details>
+<summary><strong>Week 8: React fundamentals III</strong></summary>
+
+**TO-DO:**
+- Group Project
+</details>
+
+<details>
+<summary><strong>Week 7: Database & APIs</strong></summary>
+
+**TO-DO:**
+- Weekly Exercise
+</details>
 
 <details>
 <summary><strong>Week 6: React continue</strong></summary>

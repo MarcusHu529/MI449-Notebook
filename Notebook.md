@@ -1,12 +1,23 @@
 # MI449: Class Notebook
 
 > **Name:** Weihang Hu  
-> **Current Status:** Week 8    
-> **Last Update:** 3/9/2026
+> **Current Week:** Week 9    
+> **Last Update:** 3/16/2026
 
 ---
 
 ## Weekly Notes
+
+<details>
+<summary><strong>Week 9: Rails & Model View Controller</strong></summary>
+
+- Rails
+    - Web framework built for Ruby
+
+
+**TO-DO:**
+- Weekly exercise
+</details>
 
 <details>
 <summary><strong>Week 8: React fundamentals III</strong></summary>

@@ -9,12 +9,31 @@
 ## Weekly Notes
 
 <details>
+<summary><strong>Week 11: Special topics</strong></summary>
+
+
+**TO-DO:**
+- Weekly exercise
+</details>
+
+<details>
+<summary><strong>Week 10: Rails</strong></summary>
+
+- Rails
+    - More turtorials
+
+**TO-DO:**
+- Weekly exercise
+</details>
+
+<details>
 <summary><strong>Week 9: Rails & Model View Controller</strong></summary>
 
 - Rails
     - Web framework built for Ruby
 
-
+- After Class
+    - Rails tutorials
 **TO-DO:**
 - Weekly exercise
 </details>

@@ -1,8 +1,8 @@
 # MI449: Class Notebook
 
 > **Name:** Weihang Hu  
-> **Current Week:** Week 9    
-> **Last Update:** 3/16/2026
+> **Current Week:** Week 11    
+> **Last Update:** 3/30/2026
 
 ---
 
@@ -10,7 +10,30 @@
 
 <details>
 <summary><strong>Week 11: Special topics</strong></summary>
-
+    
+- Progressive Hydration
+- Cloud Systems & AWS
+    - Microservices
+    - Hosted data stores/S3
+    - Lambdas (code as infrastructure)
+    - Docker and Docker containers
+- Alternative MVCs
+    - Django
+    - Express.js
+    - Vue.js
+    - React
+- Advanced Hosting
+    - Custom AWS and Docker
+    - Backend + Frontend hosting
+    - VPS setup and configuration
+- Custom Agents and MCP/CLI Servers
+    - Claude Code
+    - Personal MCP servers
+    - Multi-agent command line interfaces
+- Rapidly Changing SWE Marketplace
+    - Architecture
+    - Problem solving
+    - Code syntax will matter less, programming knowledge will matter more
 
 **TO-DO:**
 - Weekly exercise
